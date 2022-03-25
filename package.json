@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rosario1305/School-JavaScript.git"
+    "url": "git+https://github.com/losthakkun/School-JavaScript.git"
   },
   "author": "Alejandro Núñez Segoviano <losthakkun@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rosario1305/School-JavaScript/issues"
+    "url": "https://github.com/losthakkun/School-JavaScript/issues"
   },
-  "homepage": "https://github.com/Rosario1305/School-JavaScript#readme"
+  "homepage": "https://github.com/losthakkun/School-JavaScript#readme"
 }
