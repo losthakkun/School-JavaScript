@@ -1,0 +1,19 @@
+{
+  "name": "school-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosario1305/School-JavaScript.git"
+  },
+  "author": "Alejandro Núñez Segoviano <losthakkun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rosario1305/School-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Rosario1305/School-JavaScript#readme"
+}
